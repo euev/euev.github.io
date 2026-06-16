@@ -27,10 +27,10 @@ urls:
 author_logo: profile.png
 author: Andrea Grassi
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
+author_email: "fam.grassi.andrea@gmail.com"
+author_location: Italia
 author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: Esplora il mio sito per scoprire i miei progetti, esperienze e molto altro!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -71,9 +71,9 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: xplor4r
-github_username:  sujaykundu777
-instagram_username: xplor4r
+twitter_username: xplor4ir
+github_username:  aandreagrassii
+instagram_username: aandreagrassii
 # facebook_username: johndoe
 # linkedin_username: johndoe
 # behance_username: johndoe
